@@ -1,5 +1,6 @@
 ione-function a very important function.
 new function
 added a chart
+adding new function via x method
 two function
 added a code for log out
