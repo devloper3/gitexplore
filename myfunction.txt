@@ -1,6 +1,12 @@
-ione-function a very very important function.
+second stash
+function a very very important function.
 new function
 added a chart
 adding new function via x method
-two function
+two functin
+Updated upstream
 added a code for log out
+
+when i add something new in this f
+Stashed changes
+stash is there
