@@ -1,2 +1,0 @@
-# gitexplore
-exploring git 
